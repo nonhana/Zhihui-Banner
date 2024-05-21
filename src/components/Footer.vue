@@ -10,8 +10,9 @@ import logo from "../assets/logo.svg";
       </div>
       <div class="links">
         <span class="title">产品</span>
-        <span class="link">原型平台</span>
-        <span class="link">原型·PRD</span>
+        <span class="link">AI润色</span>
+        <span class="link">AI故事</span>
+        <span class="link">AI写真</span>
       </div>
       <div class="links">
         <span class="title">服务</span>
@@ -28,8 +29,8 @@ import logo from "../assets/logo.svg";
       </div>
       <div class="links">
         <span class="title">联系我们</span>
-        <span class="link">1323233444444444</span>
-        <span class="link">contact@xiaopiu.com</span>
+        <span class="link">17858863743</span>
+        <span class="link">1040596498@qq.com</span>
       </div>
     </div>
   </div>
