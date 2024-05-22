@@ -1,6 +1,8 @@
 <script setup lang="ts">
 import banner1 from "../assets/banner1.png";
 import video from "../assets/video.svg";
+
+const handleClick = () => window.open("http://localhost:2121");
 </script>
 
 <template>
@@ -18,6 +20,7 @@ import video from "../assets/video.svg";
           style="width: 180px; height: 60px; color: #fff; font-size: 18px"
           type="primary"
           color="#BDAFFA"
+          @click="handleClick"
           >一起开启旅程吧</el-button
         >
         <div class="button">
